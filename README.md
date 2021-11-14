@@ -1,2 +1,2 @@
-# kasee_salary_predictionminiproject
+#salary_predictionminiproject
 SALARY PREDICTION USING REGRESSION
